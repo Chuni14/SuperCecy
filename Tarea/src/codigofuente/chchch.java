@@ -6,7 +6,7 @@ public class chchch {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");		
 		System.out.println("Hola Mely");
-		System.out.println("Hola Merellin");
+		System.out.println("Hola Merellín");
 
 	}
 }
